@@ -14,3 +14,39 @@ Automated Design Systems
 Design Support Systems
 Computer Supported Cooperative Work (CSCW)
 Building Information Modeling (BIM)
+
+Introduction of DCC - Design computing conference
+http://dccconferences.org/dcc16/call.html
+
+Design is a fundamentally important topic in disciplines ranging from the more commonly associated fields of engineering, information technology and architecture, to emerging areas in the social sciences and life sciences.
+
+One of the foundations for change in our society comes from designing. Its genesis is the notion that the world around us either is unsuited to our needs or can be improved. The need for designing is driven by a society's view that it can improve or add value to human existence well beyond simple subsistence. As a consequence of designing, the world that we inhabit is increasingly a designed rather than a naturally occurring one. In that sense it is an "artificial" world. Designing is a fundamental precursor to manufacturing, fabrication, construction or implementation. Design research aims to develop an understanding of designing and to produce models of designing that can be used to aid designing.
+
+Design research can be carried out in variety of ways. It can be viewed as largely an empirical endeavor in which experiments are designed and executed in order to test some hypothesis about some design phenomenon or design behavior. This is the approach adopted in cognitive science. The results of such research can form the basis of a computational model. A second view is that design research can be carried out by positing axioms and then deriving consequences from them. If the axioms can be mapped onto design situations then the consequences should follow. This is the approach adopted in mathematics and logic and forms the basis of a small but powerful area in design research. A third view, and the most common one in the computational domain, is that design research can be carried out by conjecturing design processes, constructing computational models of those processes and then examining the behaviors of the resulting computational systems.
+
+The conference theme of design computing and cognition recognizes not only the essential relationship between human cognitive processes as models of computation but also how models of computation inspire conceptual realizations of human cognition.
+
+This conference series aims to provide an international forum for the presentation and discussion of state-of-the-art and cutting edge research and developments in design computing and cognition.
+
+Topics of interest include, but are not limited to:
+
+Agents in design
+Artificial intelligence in design
+Big Data in design
+Biologically-inspired design
+Collaborative design
+Collective design
+Cognitive theories applied to design
+Computational social science applied to design
+Computational theories applied to design
+Creative design
+Design theory
+Evolutionary approaches in design
+Games and design
+Human cognition in design
+Learning from human designers
+Machine learning in design
+Multi-modal design
+Situated computing in design
+Social interaction in design
+Visual and spatial reasoning in design
