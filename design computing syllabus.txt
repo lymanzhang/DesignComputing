@@ -1,0 +1,16 @@
+In design studies, design computing is the practice of design activities through the application and development of novel concepts and techniques in computing.
+
+In recent years a number of research and education areas have been grouped under the umbrella term "Design Computing", namely:
+
+Artificial Intelligence in Design
+Artificial Architecture
+Expert and Knowledge-based Systems
+Computational creativity
+Computer-Aided Design
+Digital morphogenesis
+Visual and Spatial Modelling
+Computational Analogy
+Automated Design Systems
+Design Support Systems
+Computer Supported Cooperative Work (CSCW)
+Building Information Modeling (BIM)
