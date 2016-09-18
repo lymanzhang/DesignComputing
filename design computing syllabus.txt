@@ -53,3 +53,6 @@ Visual and spatial reasoning in design
 
 
 there are many resources in the field of design computing research
+
+websites:
+http://dccconferences.org/dcc16/call.html
