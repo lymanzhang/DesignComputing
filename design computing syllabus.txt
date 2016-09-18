@@ -50,3 +50,6 @@ Multi-modal design
 Situated computing in design
 Social interaction in design
 Visual and spatial reasoning in design
+
+
+there are many resources in the field of design computing research
